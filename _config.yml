@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Daniel Saeedi"
 title_separator          : "-"
-name                     : &name "Personal Website"
-description              : &description "personal description"
+name                     : &name "Daniel Saeedi"
+description              : &description "Graduate Research and Teaching Assistant at Georgia Institute of Technology"
 url                      : https://daniel-saeedi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daniel-saeedi/daniel-saeedi.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Saeedi"
-  avatar           : "profile.png"
+  avatar           : "daniel.jpeg"
   bio              : "Graduate Research and Teaching Assistant at Georgia Institute of Technology"
   location         : "Atlanta, GA"
   employer         :
